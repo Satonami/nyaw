@@ -1,14 +1,29 @@
 body{
     background-color: rgb(247, 184, 241);
 }
+
+.title{
+    color:#fff;
+    font-size: 100px;
+    margin: 15% 30% 0px;
+    cursor: pointer;
+}
+.title:hover{
+    color:#e883f5;
+}
+
+
 .start{
     color: #fff;
-    padding: 15px 39px;
+    padding: 20px 45px;
     font-weight: 500;
-    font-size: 24px;
+    font-size: 30px;
     line-height: 29px;
-    background: #e999f4;
+    background: #e883f5;
     border: 0;
-    margin: 23.5% 45%;
+    margin: 12% 45% 10%;
     cursor: pointer;
+}
+.start:hover{
+    background: #a161da;
 }
