@@ -1,11 +1,15 @@
 body{
     background-color: rgb(247, 184, 241);
+    display: block;
+    margin: 0 auto;
+    max-width: 1440px;
+    padding: 0;
 }
 
 .title{
     color:#fff;
     font-size: 100px;
-    margin: 15% 30% 0px;
+    margin: 15% 25% 0px;
     cursor: pointer;
 }
 .title:hover{
@@ -47,7 +51,7 @@ body{
     .title{
         color:#fff;
         font-size: 70px;
-        margin: 20% 30% 0px;
+        margin: 20% 32% 0px;
         cursor: pointer;
     }
 }  
@@ -134,7 +138,7 @@ body{
     .title{
         color:#fff;
         font-size: 55px;
-        margin: 35% 22% 0px;
+        margin: 35% 18% 0px;
         cursor: pointer;
     }
     
